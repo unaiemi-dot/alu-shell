@@ -1,5 +1,2 @@
 #!/bin/bash
-
-nano ~/.bashrc
-
-alias ll='ls -lah'
+alias ls='echo "DANGEROUS ALIAS BLOCKED: original ls not replaced"'
