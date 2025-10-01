@@ -1,0 +1,5 @@
+#!/bin/bash
+
+nano ~/.bashrc
+
+alias ll='ls -lah'
