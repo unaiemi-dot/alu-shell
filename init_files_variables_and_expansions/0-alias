@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ls='echo "DANGEROUS ALIAS BLOCKED: original ls not replaced"'
+alias ls='echo "total 0"'
